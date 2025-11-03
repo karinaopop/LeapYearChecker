@@ -1,0 +1,15 @@
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\bin\Debug\net9.0\LeapYearChecker.exe
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\bin\Debug\net9.0\LeapYearChecker.deps.json
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\bin\Debug\net9.0\LeapYearChecker.runtimeconfig.json
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\bin\Debug\net9.0\LeapYearChecker.dll
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\bin\Debug\net9.0\LeapYearChecker.pdb
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\obj\Debug\net9.0\LeapYearChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\obj\Debug\net9.0\LeapYearChecker.AssemblyInfoInputs.cache
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\obj\Debug\net9.0\LeapYearChecker.AssemblyInfo.cs
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\obj\Debug\net9.0\LeapYearChecker.csproj.CoreCompileInputs.cache
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\obj\Debug\net9.0\LeapYearChecker.sourcelink.json
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\obj\Debug\net9.0\LeapYearChecker.dll
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\obj\Debug\net9.0\refint\LeapYearChecker.dll
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\obj\Debug\net9.0\LeapYearChecker.pdb
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\obj\Debug\net9.0\LeapYearChecker.genruntimeconfig.cache
+C:\Users\bubbl\OneDrive\Desktop\website for HW\LeapYearChecker\obj\Debug\net9.0\ref\LeapYearChecker.dll
